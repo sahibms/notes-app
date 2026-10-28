@@ -1,16 +1,62 @@
-# React + Vite
+# Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Notes application built with React.js to create and manage notes easily.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Create new notes
+- Edit existing notes
+- Manage and organize notes
+- Save notes using Local Storage
+- Keep saved notes after page refresh
+- Responsive design for mobile and desktop devices
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Local Storage
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://sahib-notes-app.netlify.app/
+
+## GitHub Repository
+
+https://github.com/sahibms/notes-app
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sahibms/notes-app.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd notes-app
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal.
+
+## Author
+
+MS Mohammed
+
+GitHub: https://github.com/sahibms
